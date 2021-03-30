@@ -1,0 +1,5 @@
+<p>
+this act as a file of another user for his new branch named b1. This b1 has pulled the files of master and then merged those files in it along with this file.
+Now main repo has another branch b1 which has overridden main files, so local user means I will fetch origin again and then will checkout this b1 branch at my local 
+repo and after this I have now a synced version / updated version of remote repo ( main/master and b1 ) at my local repo.
+</p>
